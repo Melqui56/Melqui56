@@ -1,29 +1,14 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:05070f,50:ff2a6d,100:00e5ff&height=220&section=header&text=Melqui56&fontSize=54&fontColor=e9eaee&fontAlignY=42&animation=fadeIn&desc=software%20engineer%20%7C%20game%20developer&descSize=18&descAlignY=58&descColor=b8c0cc" width="100%" alt="header" />
-
-```text
- __  __  ____   ____  _   _  _  _  ____
-|  \/  || __ \ / ___|| | | || || ||___ \
-| |\/| || |_| |\___ \| | | || || |_ __) |
-| |  | ||  __/  ___) | |_| || || |_/ __/
-|_|  |_||_|    |____/ \___/ |_||_(_)_____|
-```
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:05070f,50:ff2a6d,100:00e5ff&height=220&section=header&text=Melqui%20Casallas&fontSize=50&fontColor=e9eaee&fontAlignY=42&animation=fadeIn&desc=software%20engineer&descSize=18&descAlignY=58&descColor=b8c0cc" width="100%" alt="header" />
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=700&color=FF2A6D&center=true&vCenter=true&width=620&lines=Software+Engineer+%26+Game+Developer;I+ship+products+from+idea+to+deploy;Architecture+%26+decisions+documented+as+ADRs;Game+feel+%26+procedural+content+as+code;Go+%26+Rust+backends+%26+Astro+frontends" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=700&color=FF2A6D&center=true&vCenter=true&width=620&lines=Software+Engineer;I+ship+products+from+idea+to+deploy;Architecture+%26+decisions+documented+as+ADRs;Game+feel+%26+procedural+content+as+code;Go+%26+Rust+backends+%26+Astro+frontends" alt="Typing SVG" />
 </a>
 
 **The treasure is quality. The journey is the craft.**
 
 Software engineering · Game development · Design
-
-[![mqestudios.com](https://img.shields.io/badge/mqestudios.com-05070f?style=flat-square&labelColor=05070f&color=ff2a6d)](https://mqestudios.com)
-[![GitHub followers](https://img.shields.io/github/followers/Melqui56?style=flat-square&color=00e5ff&labelColor=0a0e1a)](https://github.com/Melqui56)
-[![LÖVE](https://img.shields.io/badge/L%C3%96VE-Lua-39ff14?style=flat-square&labelColor=0a0e1a&color=39ff14)](https://love2d.org)
-[![Rust](https://img.shields.io/badge/-Rust-d4af37?style=flat-square&labelColor=0a0e1a&color=d4af37)](https://www.rust-lang.org)
-[![Go](https://img.shields.io/badge/-Go-39ff14?style=flat-square&labelColor=0a0e1a&color=39ff14)](https://go.dev)
-[![Astro](https://img.shields.io/badge/-Astro-00e5ff?style=flat-square&labelColor=0a0e1a&color=00e5ff)](https://astro.build)
 
 </div>
 
@@ -61,7 +46,7 @@ I build the whole stack — from game loops and procedural content pipelines to 
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=lua,godot,blender,figma,rust,go,python,postgres,redis,astro,ts,tailwind,css,html,docker,git,github,gitlab,linux,bash,cloudflare,nginx,vscode&perline=8" alt="Tech stack" />
+    <img src="https://skillicons.dev/icons?i=lua,godot,rust,go,python,postgres,redis,astro,ts,tailwind,css,html,docker,git,linux,bash,cloudflare,nginx&perline=9" alt="Tech stack" />
   </a>
 </p>
 
@@ -82,24 +67,22 @@ I build the whole stack — from game loops and procedural content pipelines to 
 
 ```text
 Software Engineering         ████████████████████  base
-Artificial Intelligence      ███████████████░░░░░  postgrad · in progress
-Game Design & Development    ███████████████░░░░░  postgrad · in progress
-Digital Design               ███████████████░░░░░  second degree · in progress
+Artificial Intelligence      ██████████░░░░░░░░░░  postgrad · in progress (50%)
+Game Design & Development    ██████░░░░░░░░░░░░░░  postgrad · in progress (30%)
+Digital Design               ███████████░░░░░░░░░  second degree · in progress (55%)
 Project Management           ░░░░░░░░░░░░░░░░░░░░  master's · planned
 ```
 
 ---
 
-## 📊 By the numbers
+## 📊 The numbers
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Melqui56&show_icons=true&hide_border=true&title_color=ff2a6d&icon_color=00e5ff&text_color=b8c0cc&bg_color=0a0e1a" alt="GitHub stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Melqui56&background=0A0E1A&border=161D33&stroke=B8C0CC&ring=FF2A6D&fire=00E5FF&currStreakNum=B8C0CC&sideNums=B8C0CC&currStreakLabel=FF2A6D&sideLabels=78808F&dates=78808F&hide_border=true" alt="GitHub streak" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Melqui56&theme=onedark&no-frame=true&no-bg=true&margin-w=6&row=1&column=7" alt="GitHub trophies" />
-</p>
+| | |
+|---|---|
+| 🧪 | **246** specs green · **0** lint warnings — a quality gate in one command |
+| 📚 | **9** architecture decisions recorded as ADRs |
+| 🚢 | Products shipped from **idea to deploy** — game, API, and web |
+| 🌐 | Bilingual technical writing — **EN / ES** |
 
 ---
 
