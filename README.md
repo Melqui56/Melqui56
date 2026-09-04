@@ -75,17 +75,7 @@ Project Management           ░░░░░░░░░░░░░░░░░
 
 ---
 
-## 🐍 The snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Melqui56/Melqui56/output/github-contribution-grid-snake-dark.svg" alt="Contribution snake" />
-</p>
-
----
-
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00e5ff,50:ff2a6d,100:05070f&height=160&section=footer&reversal=true&text=let's%20start%20an%20expedition&fontSize=22&fontColor=e9eaee&fontAlignY=62" width="100%" alt="footer" />
 
 **[mqestudios.com](https://mqestudios.com)** · **email** · open to engineering roles & studio collaborations
 
