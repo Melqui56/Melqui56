@@ -46,7 +46,7 @@ I build the whole stack — from game loops and procedural content pipelines to 
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=lua,godot,rust,go,python,postgres,redis,astro,ts,tailwind,css,html,docker,git,linux,bash,cloudflare,nginx&perline=9" alt="Tech stack" />
+    <img src="https://skillicons.dev/icons?i=lua,rust,go,python,postgres,redis,astro,ts,tailwind,css,html,docker,git,linux,bash,cloudflare,nginx&perline=9" alt="Tech stack" />
   </a>
 </p>
 
@@ -72,17 +72,6 @@ Game Design & Development    ██████░░░░░░░░░░░
 Digital Design               ███████████░░░░░░░░░  second degree · in progress (55%)
 Project Management           ░░░░░░░░░░░░░░░░░░░░  master's · planned
 ```
-
----
-
-## 📊 The numbers
-
-| | |
-|---|---|
-| 🧪 | **246** specs green · **0** lint warnings — a quality gate in one command |
-| 📚 | **9** architecture decisions recorded as ADRs |
-| 🚢 | Products shipped from **idea to deploy** — game, API, and web |
-| 🌐 | Bilingual technical writing — **EN / ES** |
 
 ---
 
